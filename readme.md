@@ -13,7 +13,7 @@ This game is developed by the developers :
       </i></b>
 </center><br>
 
-This game was created for the competition conducted by the <b>KGISL</b>partnered with <b>GUVI</b> on April 2020 to teach the gaming experince using python's pygame. We have also imported many other modules to give the users the 
+This game was created for the competition conducted by the <b>KGISL</b> partnered with <b>GUVI</b> on April 2020 to teach the gaming experince using python's pygame. We have also imported many other modules to give the users the 
 proffesional gaming experience they are intended to.
 <br>
 
